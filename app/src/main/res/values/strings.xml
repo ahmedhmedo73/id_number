@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Magic Id  App</string>
+    <string name="please_enter_id_number">please enter id number</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="dob">dob : </string>
+    <string name="brline">\n</string>
+    <string name="gender">gender : </string>
+    <string name="nationality">nationality : </string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sa">SA Citizen</string>
+    <string name="resident">Permanent Resident</string>
+</resources>
